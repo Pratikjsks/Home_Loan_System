@@ -1,11 +1,6 @@
 # 🏦 Home Loan Finance Backend
 This is the backend API for the Home Loan Finance Management System built with Spring Boot. It provides RESTful services for managing loan applications, customer profiles, disbursements, sanction letters, document verification, and user authentication.
 
-## 🔗 Repository
-
-> 🔗 **Frontend Repo**: [Loan Management System Frontend](https://github.com/spuffyffets/loan-management-system.git)
-> 🔗 **Backend Repo**: [Home_loan_Finance Backend](https://github.com/spuffyffets/Home_loan_Finance.git)  
-
 ---
 
 ## 🚀 Features
@@ -92,16 +87,7 @@ spring.jpa.show-sql: true
 CREATE DATABASE home_loan;
 ```
 
-## 🔗 Frontend Repo
-- Make sure to clone and run the frontend application separately for the full system:
 
-🔗 **Frontend Repo**: [Loan Management System Frontend](https://github.com/spuffyffets/loan-management-system.git)
-
-
-## ✍️ Author
-
-Suchit Chaudhari
-📧 suchitchaudhari17@gmail.com
 
 
 
